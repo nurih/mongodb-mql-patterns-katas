@@ -3,7 +3,7 @@
 
 Instructions:
 
-1. Open kata 5 playground by clicking [https://mongoplayground.net/p/7H_ts9r5-tM](https://mongoplayground.net/p/7H_ts9r5-tM)
+1. Open kata 5 playground by clicking [https://mongoplayground.net/p/ejVe34fbZdi](https://mongoplayground.net/p/ejVe34fbZdi)
 1. Inspect the dataset "scores" in the leftmost column to familiarize yourself with the documents you will be querying.
 1. What document-pattern do the documents exhibit?
 1. Which _pipeline sequence_ part  is a likely place for `$project` MQL stage (_Gather_, _Assemble_ or _Present_)?
