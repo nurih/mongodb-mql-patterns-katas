@@ -14,3 +14,9 @@ Solutions are in each folder in a file named `solution.md`.
 1. [Kata 3](kata3/)
 1. [Kata 4](kata4/)
 1. [Kata 5](kata5/)
+1. [Kata 6](kata6/)
+
+
+
+----
+(C) Nuri Halperin, 2022
